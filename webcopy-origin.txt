@@ -1,0 +1,596 @@
+Uri: https://dicogroup.com/
+File Name: C:\Downloaded Web Sites\dicogroup.com\index.htm
+Content Type: text/html
+
+Uri: https://dicogroup.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap
+File Name: C:\Downloaded Web Sites\dicogroup.com\css.css
+Content Type: text/css
+
+Uri: https://dicogroup.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://dicogroup.com/Services
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=capital-markets
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-1.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=property-development-and-real-estate
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-2.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=hotels-resorts-and-serviced-apartments
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-3.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=fashion-brands
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-4.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=malls-and-retail
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-5.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=manufacturing
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-6.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=building-material
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-7.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/Services?vertical=food-and-catering
+File Name: C:\Downloaded Web Sites\dicogroup.com\Services-8.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/our-team
+File Name: C:\Downloaded Web Sites\dicogroup.com\our-team.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/work-with-us
+File Name: C:\Downloaded Web Sites\dicogroup.com\work-with-us.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/get-in-touch
+File Name: C:\Downloaded Web Sites\dicogroup.com\get-in-touch.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/terms-and-conditions
+File Name: C:\Downloaded Web Sites\dicogroup.com\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/privacy-policy
+File Name: C:\Downloaded Web Sites\dicogroup.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js
+File Name: C:\Downloaded Web Sites\dicogroup.com\ajax\libs\jquery\1.11.1\jquery.js
+Content Type: text/javascript
+
+Uri: https://dicogroup.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-W37VKLN
+File Name: C:\Downloaded Web Sites\dicogroup.com\ns.html
+Content Type: text/html
+
+Uri: https://dicogroup.com/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://prod-cdn.damacproperties.com/uploads/videos/DICO/DICO-h-1.mp4
+File Name: C:\Downloaded Web Sites\dicogroup.com\uploads\videos\DICO\DICO-h-1.mp4
+Content Type: video/mp4
+
+Uri: https://prod-cdn.damacproperties.com/uploads/videos/DICO/DICO-v-sq-1.mp4
+File Name: C:\Downloaded Web Sites\dicogroup.com\uploads\videos\DICO\DICO-v-sq-1.mp4
+Content Type: video/mp4
+
+Uri: https://dicogroup.com/assets/images/categories/capital-markets.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\capital-markets.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/property-development.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\property-development.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/fashion-brand.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\fashion-brand.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/hotel-resorts.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\hotel-resorts.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/malls-retail.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\malls-retail.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/manufacturing.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\manufacturing.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/building-material.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\building-material.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/food-catering.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\food-catering.jpg
+Content Type: image/jpeg
+
+Uri: https://rum-static.pingdom.net/pa-5e60f20511c070000800058f.js
+File Name: C:\Downloaded Web Sites\dicogroup.com\pa-5e60f20511c070000800058f.js
+Content Type: application/javascript
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Heavy.eot
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Heavy.eot?
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Heavy.woff2
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Heavy.woff2
+Content Type: font/woff2
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Heavy.woff
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Heavy.woff
+Content Type: font/woff
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Heavy.ttf
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Heavy.ttf
+Content Type: font/ttf
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Medium.eot
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Medium.eot?
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Medium.woff2
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Medium.woff
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Medium.woff
+Content Type: font/woff
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Medium.ttf
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Regular.eot
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Regular.eot?
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Regular.woff2
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Regular.woff
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Regular.woff
+Content Type: font/woff
+
+Uri: https://dicogroup.com/assets/fonts/TSTAR/TSTAR-Regular.ttf
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\fonts\TSTAR\TSTAR-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://dicogroup.com/assets/images/menu-open.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\menu-open.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/menu-close.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\menu-close.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/location-icon.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\location-icon.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/call-icon-small.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\call-icon-small.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/email-icon-small.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\email-icon-small.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/location-icon-small.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\location-icon-small.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/call-icon-mobile.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\call-icon-mobile.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/email-icon-mobile.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\email-icon-mobile.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/location-icon-mobile.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\location-icon-mobile.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/call-icon.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\call-icon.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/email-icon.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\email-icon.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://dicogroup.com/assets/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://dicogroup.com/assets/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://dicogroup.com/assets/images/sliders/our-portfolio-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\our-portfolio-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/our-portfolio-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\our-portfolio-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/chairman.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\chairman.jpg
+Content Type: image/jpeg
+
+Uri: https://www.aljazeiraservices.com/
+File Name: C:\Downloaded Web Sites\dicogroup.com\index-1.htm
+Content Type: text/html
+
+Uri: https://dicogroup.com/assets/images/sliders/capital-markets-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\capital-markets-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/capital-markets-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\capital-markets-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/01 Early Stage Strategy/8VC.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\01 Early Stage Strategy\8VC.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/01 Early Stage Strategy/HOF-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\01 Early Stage Strategy\HOF-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/01 Early Stage Strategy/MARCH-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\01 Early Stage Strategy\MARCH-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/02 Growth Strategy/COATUE.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\02 Growth Strategy\COATUE.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/02 Growth Strategy/DFJ-Growth.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\02 Growth Strategy\DFJ-Growth.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/02 Growth Strategy/IVP.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\02 Growth Strategy\IVP.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/03 Buyout Strategy/HIG-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\03 Buyout Strategy\HIG-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/03 Buyout Strategy/INSIGHT-Partners.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\03 Buyout Strategy\INSIGHT-Partners.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/03 Buyout Strategy/SilverLake.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\03 Buyout Strategy\SilverLake.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/03 Buyout Strategy/Thomabravo.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\03 Buyout Strategy\Thomabravo.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/ARES.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\ARES.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/Dragoneer.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\Dragoneer.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/DST-Global.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\DST-Global.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/DYAL-Capital---A-Division-of-Blue-Owl.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\DYAL-Capital---A-Division-of-Blue-Owl.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/General-Atlantic.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\General-Atlantic.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/IDG-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\IDG-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/KKR.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\KKR.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/04 Private Equity/Mirabaud.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\04 Private Equity\Mirabaud.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/05 Real Estate Strategy/Starwood-Capital-Group.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\05 Real Estate Strategy\Starwood-Capital-Group.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/06 Secondry Strategy/137-Ventures.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\06 Secondry Strategy\137-Ventures.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/06 Secondry Strategy/G2-Squared.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\06 Secondry Strategy\G2-Squared.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/private-funds/08 Co-Investment Strategy/Neuberger.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\private-funds\08 Co-Investment Strategy\Neuberger.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Brilance-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Brilance-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Cadian-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Cadian-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Caxton.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Caxton.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/DEShaw-&-Co.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\DEShaw-&-Co.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Evolution-Capital-Management-Inc.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Evolution-Capital-Management-Inc.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Matrix-Capital-Management.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Matrix-Capital-Management.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/OrbiMed.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\OrbiMed.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Palomino-Capital.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Palomino-Capital.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/Whale-Rock.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\Whale-Rock.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/hedge-funds/01 Active ETF/ARK-Invest.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\hedge-funds\01 Active ETF\ARK-Invest.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/direct-co-investments/Highspot.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\direct-co-investments\Highspot.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/direct-co-investments/Netlify.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\direct-co-investments\Netlify.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/img/logos/direct-co-investments/Spacex.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\img\logos\direct-co-investments\Spacex.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/Services-investment.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\Services-investment.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/al-jazeira.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\al-jazeira.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/right-arrow-white.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\right-arrow-white.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/sliders/property-development-and-real-estate-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\property-development-and-real-estate-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/property-development-and-real-estate-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\property-development-and-real-estate-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/damac-properties.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\damac-properties.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/DAMAC-Tower-Nine-Elms-London.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\DAMAC-Tower-Nine-Elms-London.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/the-queensway-toronto-canada.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\the-queensway-toronto-canada.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/hotels-resorts-and-serviced-apartments-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\hotels-resorts-and-serviced-apartments-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/hotels-resorts-and-serviced-apartments-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\hotels-resorts-and-serviced-apartments-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/Aykon-Maldives-Resort-Maldives.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\Aykon-Maldives-Resort-Maldives.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/fashion-brands-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\fashion-brands-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/fashion-brands-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\fashion-brands-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/roberto-cavalli-logo.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\roberto-cavalli-logo.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/categories/roberto-cavalli.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\roberto-cavalli.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/malls-and-retail-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\malls-and-retail-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/malls-and-retail-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\malls-and-retail-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/DAMACMall-Iraq.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\DAMACMall-Iraq.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/manufacturing-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\manufacturing-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/manufacturing-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\manufacturing-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/al-shams.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\al-shams.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/building-material-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\building-material-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/building-material-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\building-material-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/al-amana.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\al-amana.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/food-and-catering-hero.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\food-and-catering-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/food-and-catering-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\food-and-catering-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/categories/Global-Logistics-Services.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\categories\Global-Logistics-Services.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/our-team.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\our-team.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/our-team-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\our-team-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/hussain-sajwani.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\hussain-sajwani.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/ali-sajwani.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\ali-sajwani.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/amira-sajwani.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\amira-sajwani.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/abbas-sajwani.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\abbas-sajwani.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/essa-ibrahim.png
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\essa-ibrahim.png
+Content Type: image/png
+
+Uri: https://dicogroup.com/assets/images/our-team/sofyan-khatib.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\sofyan-khatib.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/sandip-bhatt.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\sandip-bhatt.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/our-team/danish-nayar.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\our-team\danish-nayar.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/work-with-us.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\work-with-us.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/work-with-us-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\work-with-us-small.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/get-in-touch.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\get-in-touch.jpg
+Content Type: image/jpeg
+
+Uri: https://dicogroup.com/assets/images/sliders/get-in-touch-small.jpg
+File Name: C:\Downloaded Web Sites\dicogroup.com\assets\images\sliders\get-in-touch-small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.damacproperties.com/en/
+File Name: C:\Downloaded Web Sites\dicogroup.com\en\index.htm
+Content Type: text/html
+
+Uri: https://damactower.co.uk/en/
+File Name: C:\Downloaded Web Sites\dicogroup.com\en\index-1.htm
+Content Type: text/html
+
+Uri: https://www.damacproperties.com/
+File Name: C:\Downloaded Web Sites\dicogroup.com\index-2.htm
+Content Type: text/html
+
+Uri: https://alshams.org/
+File Name: C:\Downloaded Web Sites\dicogroup.com\index-3.htm
+Content Type: text/html
+
+Uri: http://glserve.com/
+File Name: C:\Downloaded Web Sites\dicogroup.com\index-4.htm
+Content Type: text/html
+
